@@ -1,6 +1,4 @@
-- Hi, I’m @tschad 
-- I’m interested in the solar atmosphere.
-- I’m currently working on spectropolarimetry of chromospheric and coronal lines. 
+Hi, I’m Tom Schad, a solar physicist working at the National Solar Observatory.  I’m interested in all parts of the Sun's atmosphere and primarily work on spectropolarimetric diagnostics of the chromosphere and corona. 
 
 <!---
 tschad/tschad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
